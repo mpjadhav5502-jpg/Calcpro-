@@ -1,0 +1,124 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">CalcPro</string>
+    <string name="tagline">सटीक गणित, वित्त और कनवर्टर</string>
+
+    <string name="onboarding_title_1">सटीक गणना</string>
+    <string name="onboarding_desc_1">स्टैंडर्ड और साइंटिफिक कैलकुलेटर, मेमोरी कीज़ और DEG/RAD त्रिकोणमिति के साथ।</string>
+    <string name="onboarding_title_2">स्मार्ट वित्त और कनवर्टर</string>
+    <string name="onboarding_desc_2">तुरंत GST, डिस्काउंट, प्रतिशत गणना, 8 यूनिट श्रेणियाँ और कैश्ड मुद्रा दरें।</string>
+    <string name="onboarding_title_3">100% निजी और ऑफ़लाइन</string>
+    <string name="onboarding_desc_3">कोई लॉगिन आवश्यक नहीं। आपका गणना इतिहास केवल आपके डिवाइस पर सुरक्षित रहता है।</string>
+    <string name="skip">छोड़ें</string>
+    <string name="next">आगे</string>
+    <string name="get_started">शुरू करें</string>
+
+    <string name="home_welcome">CalcPro कार्यक्षेत्र</string>
+    <string name="home_subtitle">संपूर्ण सटीक टूलकिट</string>
+    <string name="tool_standard">साधारण कैलकुलेटर</string>
+    <string name="tool_standard_desc">अंकगणित, कोष्ठक और मेमोरी</string>
+    <string name="tool_scientific">वैज्ञानिक कैलकुलेटर</string>
+    <string name="tool_scientific_desc">त्रिकोणमिति, लॉग, वर्गमूल और घात</string>
+    <string name="tool_percentage">प्रतिशत कैलकुलेटर</string>
+    <string name="tool_percentage_desc">% मान, वृद्धि और अंतर</string>
+    <string name="tool_gst">GST कैलकुलेटर</string>
+    <string name="tool_gst_desc">CGST/SGST सहित GST जोड़ें या हटाएं</string>
+    <string name="tool_discount">छूट कैलकुलेटर</string>
+    <string name="tool_discount_desc">बचत, अंतिम मूल्य और कर</string>
+    <string name="tool_unit">इकाई कनवर्टर</string>
+    <string name="tool_unit_desc">लंबाई, वजन, तापमान, डेटा आदि</string>
+    <string name="tool_currency">मुद्रा कनवर्टर</string>
+    <string name="tool_currency_desc">कैश सहित 10 वैश्विक मुद्राएँ</string>
+    <string name="tool_history">गणना इतिहास</string>
+    <string name="tool_history_desc">पिछले परिणाम खोजें और उपयोग करें</string>
+    <string name="tool_settings">सेटिंग्स</string>
+    <string name="tool_settings_desc">थीम, भाषा और दशमलव सटीकता</string>
+    <string name="tool_premium">CalcPro प्रीमियम</string>
+    <string name="tool_premium_desc">विज्ञापन-मुक्त और विशेष थीम्स</string>
+
+    <string name="back">वापस</string>
+    <string name="copy">कॉपी</string>
+    <string name="copied_to_clipboard">क्लिपबोर्ड पर कॉपी किया गया</string>
+    <string name="paste">पेस्ट</string>
+    <string name="nothing_to_paste">क्लिपबोर्ड में कोई मान्य संख्या नहीं है</string>
+    <string name="share">साझा करें</string>
+    <string name="save_history">सहेजें</string>
+    <string name="saved_to_history">इतिहास में सहेजा गया</string>
+    <string name="clear">साफ़ करें</string>
+    <string name="delete">हटाएं</string>
+    <string name="cancel">रद्द करें</string>
+    <string name="confirm">पुष्टि करें</string>
+    <string name="calculate">गणना करें</string>
+    <string name="swap">बदलें</string>
+    <string name="refresh">रीफ़्रेश</string>
+    <string name="err_div_zero">शून्य से भाग नहीं दिया जा सकता</string>
+    <string name="err_syntax">अमान्य अभिव्यक्ति</string>
+    <string name="err_domain">गणितीय डोमेन त्रुटि</string>
+    <string name="err_overflow">संख्या बहुत बड़ी है</string>
+    <string name="memory_indicator">M</string>
+
+    <string name="pct_mode_of">संख्या का %</string>
+    <string name="pct_mode_increase">% वृद्धि</string>
+    <string name="pct_mode_decrease">% कमी</string>
+    <string name="pct_mode_difference">% अंतर</string>
+    <string name="calculation_steps">गणना के चरण</string>
+    <string name="final_answer">अंतिम उत्तर</string>
+    <string name="gst_add">GST जोड़ें (Exclusive)</string>
+    <string name="gst_remove">GST हटाएं (Inclusive)</string>
+    <string name="gst_amount">राशि</string>
+    <string name="gst_rate">GST दर (%)</string>
+    <string name="gst_base_price">मूल राशि</string>
+    <string name="gst_tax_amount">कुल GST कर</string>
+    <string name="gst_total_price">कुल राशि</string>
+    <string name="discount_original_price">मूल कीमत</string>
+    <string name="discount_percent">छूट (%)</string>
+    <string name="discount_extra_tax">अतिरिक्त कर (%)</string>
+    <string name="discount_you_save">आपकी बचत</string>
+    <string name="discount_final_price">अंतिम कीमत</string>
+
+    <string name="from_label">से</string>
+    <string name="to_label">में</string>
+    <string name="enter_value">मान दर्ज करें</string>
+    <string name="all_conversions">सभी समतुल्य मान</string>
+    <string name="currency_fetch_live">लाइव दरें प्राप्त करें</string>
+    <string name="currency_last_updated">अंतिम अपडेट: %1$s</string>
+    <string name="currency_never_updated">अभी तक कोई कैश दर नहीं है। इंटरनेट से जुड़ें या मैन्युअल दर दर्ज करें।</string>
+    <string name="currency_outdated_warning">दरें पुरानी (&gt;24 घंटे) या ऑफ़लाइन कैश्ड हैं। ऑनलाइन होने पर रीफ़्रेश करें।</string>
+    <string name="currency_manual_badge">मैन्युअल दर सक्रिय</string>
+    <string name="currency_set_manual">मैन्युअल दर सेट करें</string>
+    <string name="currency_clear_manual">लाइव दर पर रीसेट करें</string>
+    <string name="currency_fetch_error">सर्वर से जुड़ने में असमर्थ। उपलब्ध कैश दरों का उपयोग किया जा रहा है।</string>
+
+    <string name="history_search_hint">अभिव्यक्ति या उत्तर खोजें…</string>
+    <string name="history_empty">अभी तक कोई गणना सहेजी नहीं गई</string>
+    <string name="history_empty_desc">आपकी स्टैंडर्ड, वैज्ञानिक और कनवर्टर गणनाएँ यहाँ अपने आप दिखाई देंगी।</string>
+    <string name="history_clear_all">सारा इतिहास साफ़ करें</string>
+    <string name="history_clear_confirm">क्या सभी सहेजे गए गणना रिकॉर्ड हटाएं? यह क्रिया पूर्ववत नहीं की जा सकती।</string>
+    <string name="history_reuse">कैलकुलेटर में उपयोग करें</string>
+
+    <string name="settings_appearance">रूप और थीम</string>
+    <string name="theme_dark">डार्क थीम</string>
+    <string name="theme_light">लाइट थीम</string>
+    <string name="theme_system">सिस्टम डिफ़ॉल्ट</string>
+    <string name="theme_amoled_purple">ऑब्सीडियन वायलेट (प्रीमियम)</string>
+    <string name="theme_royal_gold">रॉयल गोल्ड (प्रीमियम)</string>
+    <string name="settings_language">भाषा</string>
+    <string name="settings_calculator">कैलकुलेटर प्राथमिकताएँ</string>
+    <string name="settings_precision">दशमलव सटीकता: %1$d</string>
+    <string name="settings_thousands">हज़ार विभाजक</string>
+    <string name="settings_sound">बटन ध्वनि</string>
+    <string name="settings_vibration">हैप्टिक कंपन</string>
+    <string name="settings_data">डेटा और गोपनीयता</string>
+    <string name="privacy_policy">गोपनीयता नीति</string>
+    <string name="about_calcpro">CalcPro के बारे में</string>
+    <string name="version_label">संस्करण %1$s</string>
+
+    <string name="premium_title">CalcPro प्रीमियम में अपग्रेड करें</string>
+    <string name="premium_subtitle">विज्ञापन-मुक्त अनुभव और विशेष थीम अनलॉक करें</string>
+    <string name="premium_free_tier">निःशुल्क प्लान</string>
+    <string name="premium_pro_tier">प्रीमियम प्लान</string>
+    <string name="premium_restore">खरीदारी पुनर्स्थापित करें</string>
+    <string name="premium_active">CalcPro प्रीमियम सक्रिय है</string>
+    <string name="premium_billing_unavailable">Google Play Console में उत्पाद ID कॉन्फ़िगर होने के बाद यहाँ मूल्य दिखाई देंगे।</string>
+    <string name="ad_notice">विज्ञापन</string>
+</resources>

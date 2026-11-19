@@ -1,0 +1,132 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">CalcPro</string>
+    <string name="tagline">Precision Math, Finance &amp; Converters</string>
+
+    <!-- Onboarding -->
+    <string name="onboarding_title_1">Precision Calculating</string>
+    <string name="onboarding_desc_1">Standard &amp; scientific math with exact order of operations, memory keys, and DEG/RAD trigonometry.</string>
+    <string name="onboarding_title_2">Smart Finance &amp; Converters</string>
+    <string name="onboarding_desc_2">Instant GST, discount, percentage breakdowns, 8 unit categories, and live cached currency rates.</string>
+    <string name="onboarding_title_3">100% Private &amp; Offline Ready</string>
+    <string name="onboarding_desc_3">No account needed. Your calculation history stays encrypted and stored locally on your device.</string>
+    <string name="skip">Skip</string>
+    <string name="next">Next</string>
+    <string name="get_started">Get Started</string>
+
+    <!-- Home Dashboard -->
+    <string name="home_welcome">CalcPro Workspace</string>
+    <string name="home_subtitle">All-in-one precision toolkit</string>
+    <string name="tool_standard">Standard Calculator</string>
+    <string name="tool_standard_desc">Arithmetic, brackets &amp; memory</string>
+    <string name="tool_scientific">Scientific Calculator</string>
+    <string name="tool_scientific_desc">Trig, logs, roots &amp; powers</string>
+    <string name="tool_percentage">Percentage Calculator</string>
+    <string name="tool_percentage_desc">% of value, increase &amp; diff</string>
+    <string name="tool_gst">GST Calculator</string>
+    <string name="tool_gst_desc">Add or remove GST with CGST/SGST</string>
+    <string name="tool_discount">Discount Calculator</string>
+    <string name="tool_discount_desc">Savings, final price &amp; tax</string>
+    <string name="tool_unit">Unit Converter</string>
+    <string name="tool_unit_desc">Length, weight, temp, data &amp; more</string>
+    <string name="tool_currency">Currency Converter</string>
+    <string name="tool_currency_desc">10 global currencies with cache</string>
+    <string name="tool_history">Calculation History</string>
+    <string name="tool_history_desc">Search &amp; reuse past results</string>
+    <string name="tool_settings">Settings</string>
+    <string name="tool_settings_desc">Theme, language &amp; precision</string>
+    <string name="tool_premium">CalcPro Premium</string>
+    <string name="tool_premium_desc">Ad-free &amp; exclusive themes</string>
+
+    <!-- Common Actions & Errors -->
+    <string name="back">Back</string>
+    <string name="copy">Copy</string>
+    <string name="copied_to_clipboard">Copied to clipboard</string>
+    <string name="paste">Paste</string>
+    <string name="nothing_to_paste">Clipboard has no valid number</string>
+    <string name="share">Share</string>
+    <string name="save_history">Save</string>
+    <string name="saved_to_history">Saved to history</string>
+    <string name="clear">Clear</string>
+    <string name="delete">Delete</string>
+    <string name="cancel">Cancel</string>
+    <string name="confirm">Confirm</string>
+    <string name="calculate">Calculate</string>
+    <string name="swap">Swap</string>
+    <string name="refresh">Refresh</string>
+    <string name="err_div_zero">Cannot divide by zero</string>
+    <string name="err_syntax">Invalid expression</string>
+    <string name="err_domain">Math domain error</string>
+    <string name="err_overflow">Number too large</string>
+    <string name="memory_indicator">M</string>
+
+    <!-- Percentage, GST, Discount -->
+    <string name="pct_mode_of">% of Number</string>
+    <string name="pct_mode_increase">% Increase</string>
+    <string name="pct_mode_decrease">% Decrease</string>
+    <string name="pct_mode_difference">% Difference</string>
+    <string name="calculation_steps">Calculation Steps</string>
+    <string name="final_answer">Final Answer</string>
+    <string name="gst_add">Add GST (Exclusive)</string>
+    <string name="gst_remove">Remove GST (Inclusive)</string>
+    <string name="gst_amount">Amount</string>
+    <string name="gst_rate">GST Rate (%)</string>
+    <string name="gst_base_price">Net / Base Amount</string>
+    <string name="gst_tax_amount">Total GST Tax</string>
+    <string name="gst_total_price">Total Amount</string>
+    <string name="discount_original_price">Original Price</string>
+    <string name="discount_percent">Discount (%)</string>
+    <string name="discount_extra_tax">Additional Tax (%)</string>
+    <string name="discount_you_save">You Save</string>
+    <string name="discount_final_price">Final Price</string>
+
+    <!-- Unit & Currency -->
+    <string name="from_label">From</string>
+    <string name="to_label">To</string>
+    <string name="enter_value">Enter value</string>
+    <string name="all_conversions">All Equivalent Values</string>
+    <string name="currency_fetch_live">Fetch Live Rates</string>
+    <string name="currency_last_updated">Last updated: %1$s</string>
+    <string name="currency_never_updated">No cached rates yet. Connect to internet or set a manual rate.</string>
+    <string name="currency_outdated_warning">Rates are outdated (&gt;24h) or offline cached. Refresh when online.</string>
+    <string name="currency_manual_badge">Manual Rate Active</string>
+    <string name="currency_set_manual">Set Manual Rate</string>
+    <string name="currency_clear_manual">Reset to Live Rate</string>
+    <string name="currency_fetch_error">Unable to reach exchange rate server. Using cached rates if available.</string>
+
+    <!-- History -->
+    <string name="history_search_hint">Search expressions or answers…</string>
+    <string name="history_empty">No calculations saved yet</string>
+    <string name="history_empty_desc">Your standard, scientific, and converter calculations will appear here automatically.</string>
+    <string name="history_clear_all">Clear All History</string>
+    <string name="history_clear_confirm">Delete all saved calculation records? This action cannot be undone.</string>
+    <string name="history_reuse">Reuse in Calculator</string>
+
+    <!-- Settings -->
+    <string name="settings_appearance">Appearance &amp; Theme</string>
+    <string name="theme_dark">Dark Theme</string>
+    <string name="theme_light">Light Theme</string>
+    <string name="theme_system">System Default</string>
+    <string name="theme_amoled_purple">Obsidian Violet (Premium)</string>
+    <string name="theme_royal_gold">Royal Gold (Premium)</string>
+    <string name="settings_language">Language</string>
+    <string name="settings_calculator">Calculator Preferences</string>
+    <string name="settings_precision">Decimal Precision: %1$d</string>
+    <string name="settings_thousands">Thousands Separators</string>
+    <string name="settings_sound">Button Sound Feedback</string>
+    <string name="settings_vibration">Haptic Vibration</string>
+    <string name="settings_data">Data &amp; Privacy</string>
+    <string name="privacy_policy">Privacy Policy</string>
+    <string name="about_calcpro">About CalcPro</string>
+    <string name="version_label">Version %1$s</string>
+
+    <!-- Premium & Ads -->
+    <string name="premium_title">Upgrade to CalcPro Premium</string>
+    <string name="premium_subtitle">Unlock distraction-free precision &amp; exclusive themes</string>
+    <string name="premium_free_tier">Free Plan</string>
+    <string name="premium_pro_tier">Premium Plan</string>
+    <string name="premium_restore">Restore Purchases</string>
+    <string name="premium_active">CalcPro Premium Active</string>
+    <string name="premium_billing_unavailable">Google Play Billing pricing will appear here once product IDs are configured in Google Play Console.</string>
+    <string name="ad_notice">Advertisement</string>
+</resources>

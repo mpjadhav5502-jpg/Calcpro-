@@ -1,0 +1,6 @@
+{
+  "name": "CalcPro",
+  "description": "Precision standard, scientific, percentage, GST, discount, unit, and currency calculator with offline local history, custom themes, and multilingual support.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
