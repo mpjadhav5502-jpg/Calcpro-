@@ -1,5 +1,5 @@
 
-name: Build CalcPro Signed AAB
+name: name: Build CalcPro Signed AAB
 
 on:
   push:
@@ -12,7 +12,7 @@ permissions:
 
 jobs:
   build-release-aab:
-    name: Build Signed Release AAB
+    name: name: Build CalcPro Signed AAB
     runs-on: ubuntu-latest
 
     steps:
